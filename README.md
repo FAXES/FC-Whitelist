@@ -4,7 +4,8 @@
 This is a revolutionary white-list script that allows admins to change the whitelist level ingame, having a live whitelist system. Eg; Have the server set to anyone can join an admin joins and can make it Member 3 Authorization. This whitelist is designed to work with Fax-Core's permission system.
 
 **In the Download**
-  >__resource.lua
+  >
+  __resource.lua
   server.lua
 <hr>
 
